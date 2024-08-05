@@ -1,0 +1,98 @@
+[
+    {
+        "control": "label",
+        "text": "Emre Toklu",
+        "fontWeight": "bold",
+        "alignment": "left"
+    },
+    {
+        "control": "label",
+        "text": "Murat Güzel",
+        "fontWeight": "italic",
+        "alignment": "right"
+    },
+    {
+        "control": "label",
+        "text": "Mahmut Mızraklıdağ",
+        "color": "#FF6347",
+        "alignment": "center"
+    },
+    {
+        "control": "textbox",
+        "text": "Müslüm Gürses",
+        "backgroundColor": "#D3D3D3",
+        "textColor": "#000000",
+        "fontWeight": "bold"
+    },
+    {
+        "control": "picker",
+        "placeholder": "Select a song",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "font": {
+            "size": 14,
+            "weight": "bold"
+        },
+        "items": [
+            {"name": "Nilüfer", "url": "https://www.youtube.com/watch?v=SQnglFtGjqs"},
+            {"name": "Affet", "url": "https://www.youtube.com/watch?v=2YYLr6yVruQ"},
+            {"name": "Tutamıyorum Zamanı", "url": "https://www.youtube.com/watch?v=dsDdlnoELFQ"}
+        ]
+    },
+    {
+        "control": "image",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzQ4ZmMxYmMtNzNhZC00Y2FiLTlkZGYtYWZiZmNiZDUxMWEyXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_.jpg"
+    },
+    {
+        "control": "button",
+        "text": "Gönder"
+    },
+    {
+        "control": "radio",
+        "items": [
+            {"title": "EMRE"},
+            {"title": "MAHMUT"},
+            {"title": "MURAT"}
+        ]
+    },
+    {
+        "control": "label",
+        "text": "Mahmut Mızraklıdağ",
+        "fontWeight": "bold",
+        "alignment": "left"
+    },
+    {
+        "control": "checkboxes",
+        "checkboxes": [
+            {"id": "checkbox1", "title": "MURAT"},
+            {"id": "checkbox2", "title": "MAHMUT"},
+            {"id": "checkbox3", "title": "EMRE"}
+        ]
+    },
+    {
+        "control": "label",
+        "text": "Emre Toklu",
+        "fontWeight": "bold",
+        "alignment": "left"
+    },
+    {
+        "control": "label",
+        "text": "Murat Güzel",
+        "fontWeight": "italic",
+        "alignment": "right"
+    },
+    {
+        "control": "label",
+        "text": "Mahmut Mızraklıdağ",
+        "color": "#FF6347",
+        "alignment": "center"
+    },
+    {
+        "control": "textbox",
+        "text": "Müslüm Gürses",
+        "backgroundColor": "#D3D3D3",
+        "textColor": "#000000",
+        "fontWeight": "bold"
+    }
+]
+
